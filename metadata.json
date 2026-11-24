@@ -1,0 +1,6 @@
+{
+  "name": "Janta Check",
+  "description": "AI-powered civic engagement and smart infrastructure monitoring platform. Your Voice. Your City. Your Change.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
